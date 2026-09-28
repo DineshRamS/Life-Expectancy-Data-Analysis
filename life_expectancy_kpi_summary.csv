@@ -1,0 +1,12 @@
+Metric,Value
+Original Dataset Rows,21565
+Cleaned Dataset Rows,20217
+Entities,247
+Years Covered,1543-2023
+Overall Mean Life Expectancy,62.07
+Overall Median Life Expectancy,64.79
+Highest Average Entity,Monaco
+Highest Average Life Expectancy,78.05
+Lowest Average Entity,South Sudan
+Lowest Average Life Expectancy,37.84
+Latest Year Average Life Expectancy,74.12
